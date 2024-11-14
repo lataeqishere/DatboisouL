@@ -2,9 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Artificial+Intelligence+Engineering+Student">
 </p>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/lataeqishere/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/L4743exec/count.svg?"  />
 </div>
-<img src="https://raw.githubusercontent.com/lataeqishere/lataeqishere/snake/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/L4743exec/L4743exec/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
 <h2 align="center">🧰 Tools 🧰</h2>
 
@@ -12,10 +12,10 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lataeqishere&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=L4743exec&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/?username=lataeqishere&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=L4743exec&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   <img align="right" alt="Coding" height ="196" width="360" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHlyeGllNjRkdnJud3V6OGlrbTF6dGZzdWhrYzE4dnIyanRjY2s5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1iNIkQBAwEkUuTpikf/giphy.gif"/>
 </div>
 
