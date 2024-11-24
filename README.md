@@ -23,15 +23,13 @@
 
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Note](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
-###
+### Activity
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=L4743exec&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&custom_title=L4743's%20GitHub%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=L4743exec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=aura&hide_border=true" height="150" alt="languages graph"  />
   <img align="right" alt="Coding" height ="150" width="185" src="https://i.pinimg.com/originals/f3/70/70/f37070078ef2e10282477cc08de490b1.gif"/>
 </div>
-
-### Activity
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=L4743exec&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
