@@ -28,5 +28,5 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=L4743exec&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&custom_title=L4743's%20GitHub%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=L4743exec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=aura&hide_border=true" height="150" alt="languages graph"  />
-  <img align="right" alt="Coding" height ="150" width="185" src="https://github.com/user-attachments/assets/7f826f85-4f74-4e96-8a92-035ed3820c44"/>
+  <img align="right" alt="Coding" height ="150" width="180" src="https://github.com/user-attachments/assets/7f826f85-4f74-4e96-8a92-035ed3820c44"/>
 </div>
