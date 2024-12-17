@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/L4743exec/count.svg?"  />
 </div>
-<img src="https://raw.githubusercontent.com/L4743exec/L4743exec/snake/github-contribution-grid-snake-dark.svg" width="100%">
+<!---<img src="https://raw.githubusercontent.com/L4743exec/L4743exec/snake/github-contribution-grid-snake-dark.svg" width="100%">-->
 
 ### Tools used
 
